@@ -15,7 +15,7 @@ const Navbar = () => {
     
     <div className='relative flex items-center justify-between h-24 mx-auto text-black bg-white lpx-4 max-w-ful'>
       
-      <h1 className='px-3 text-2xl font-bold black p w-30'>3legacy.</h1>
+      <h1 className='px-3 text-2xl font-bold text-green-800 black p w-30'>SOAP</h1>
     
       <ul className='items-center hidden text-sm md:flex'>
         <li className='p-3'>Home</li>
